@@ -1,4 +1,4 @@
-package strings.search;
+package search;
 /*
 Given a text txt and a pattern pat of size n and m respectively, the task is to find all occurrences of pat and its permutations (or anagrams) in txt. You may assume n > m.
 

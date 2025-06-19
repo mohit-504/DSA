@@ -1,4 +1,4 @@
-package strings.search;
+package search;
 /*Given a string str of length n (1 <= n <= 106) and a number k, the task is to find the kth 
 non-repeating character in the string.
 

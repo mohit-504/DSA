@@ -1,4 +1,4 @@
-package strings.search;
+package search;
 /*Given a string s of lowercase English letters, the task is to find the first non-repeating character. 
 If there is no such character, return '$'.
 
